@@ -49,7 +49,7 @@ function bigNumberFinderWithArray(arr) {
     if (temp < number) {
       temp = number;
     }
-  }
+  }                 
   return temp
 }
 
